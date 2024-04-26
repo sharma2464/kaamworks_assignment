@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+
+.dockerignore
+.env
+*.env
+compose2.yaml
+README.Docker.md
+tsconfig.json.stathom
+.DS_Store
